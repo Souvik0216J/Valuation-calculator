@@ -34,7 +34,7 @@ function Home() {
 
   return (
     <div className='h-screen w-screen bg-gray-700 flex justify-center items-center'>
-      <div className='w-auto h-auto p-3 border border-gray-500 rounded-lg'>
+      <div className='w-auto h-auto p-3 border border-gray-600 rounded-lg'>
 
         <form onSubmit={(e) => {
           submiHandler(e)
