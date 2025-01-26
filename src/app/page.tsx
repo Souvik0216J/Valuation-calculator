@@ -28,6 +28,8 @@ function Home() {
 
   const clear = () =>{
     setValuation("")
+    setAmount("")
+    setEquity("")
   }
 
   return (
